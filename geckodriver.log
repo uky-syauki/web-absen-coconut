@@ -1,0 +1,113 @@
+1697641709220	geckodriver	INFO	Listening on 127.0.0.1:58961
+1697641709602	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZU0i23"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697641712480	Marionette	INFO	Marionette enabled
+1697641712702	Marionette	INFO	Listening on port 37231
+Read port: 37231
+WebDriver BiDi listening on ws://127.0.0.1:46965
+1697641713585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46965/devtools/browser/dcfd26d8-84bc-4c7b-98ac-df02143a1b03
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697641791784	Marionette	INFO	Stopped listening on port 37231
+1697697249491	geckodriver	INFO	Listening on 127.0.0.1:49377
+1697697249970	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8gtGdp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697251498	Marionette	INFO	Marionette enabled
+1697697251761	Marionette	INFO	Listening on port 41871
+Read port: 41871
+WebDriver BiDi listening on ws://127.0.0.1:57885
+1697697252865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57885/devtools/browser/95d52b3c-4ef0-438a-a04b-b557ff346dd2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1697697420912	Marionette	INFO	Stopped listening on port 41871
+1697697541492	geckodriver	INFO	Listening on 127.0.0.1:39067
+1697697541528	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1As34F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697542486	Marionette	INFO	Marionette enabled
+1697697542611	Marionette	INFO	Listening on port 43261
+WebDriver BiDi listening on ws://127.0.0.1:42303
+Read port: 43261
+1697697542979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42303/devtools/browser/bad7110d-37c3-4c61-8ad7-f18d9f7532c5
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697697561959	Marionette	INFO	Stopped listening on port 43261
+1697697622823	geckodriver	INFO	Listening on 127.0.0.1:37359
+1697697622859	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBe1oMQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697623829	Marionette	INFO	Marionette enabled
+1697697623939	Marionette	INFO	Listening on port 45641
+WebDriver BiDi listening on ws://127.0.0.1:47645
+Read port: 45641
+1697697624382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47645/devtools/browser/88d7b059-09b8-4ae0-bfdb-5781d7b23555
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697697642106	Marionette	INFO	Stopped listening on port 45641
+1697697659606	geckodriver	INFO	Listening on 127.0.0.1:44885
+1697697659645	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejgjGKK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697660634	Marionette	INFO	Marionette enabled
+1697697660739	Marionette	INFO	Listening on port 37385
+Read port: 37385
+WebDriver BiDi listening on ws://127.0.0.1:54111
+1697697661093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54111/devtools/browser/de9031d1-3eb3-4381-81bf-e8b21dcbb415
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697697677751	Marionette	INFO	Stopped listening on port 37385
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1697697749126	geckodriver	INFO	Listening on 127.0.0.1:36665
+1697697749163	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWH0ng0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697750121	Marionette	INFO	Marionette enabled
+1697697750233	Marionette	INFO	Listening on port 45285
+WebDriver BiDi listening on ws://127.0.0.1:34389
+Read port: 45285
+1697697750715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34389/devtools/browser/f4fe565e-7098-4eb7-817d-b87a40ebbc82
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697697763689	Marionette	INFO	Stopped listening on port 45285
+1697697791777	geckodriver	INFO	Listening on 127.0.0.1:35335
+1697697791814	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerbeGdY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697792764	Marionette	INFO	Marionette enabled
+1697697792880	Marionette	INFO	Listening on port 42783
+WebDriver BiDi listening on ws://127.0.0.1:55881
+Read port: 42783
+1697697793357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55881/devtools/browser/cbf1bcd7-fd57-4122-917d-a3ed7fc5cc82
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697697807854	Marionette	INFO	Stopped listening on port 42783
+1697697833387	geckodriver	INFO	Listening on 127.0.0.1:57667
+1697697833424	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBUymzi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697697834391	Marionette	INFO	Marionette enabled
+1697697834511	Marionette	INFO	Listening on port 44227
+Read port: 44227
+WebDriver BiDi listening on ws://127.0.0.1:55239
+1697697835501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55239/devtools/browser/5a723d45-6ee0-473c-a85d-06815bfa890d
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1697697850529	Marionette	INFO	Stopped listening on port 44227
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined

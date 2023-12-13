@@ -1,0 +1,5 @@
+SELECT pg.nama_pengarang, pg.alamat, pg.email, bk.judul, bk.harga, bk.jumlah_halaman FROM Buku bk INNER JOIN Pengarang pg ON bk.kode_pengarang=pg.kode_pengarang;
+SELECT pg.nama_pengarang, bk.judul, bk.harga FROM Pengarang pg INNER JOIN Buku bk ON pg.kode_pengarang = bk.kode_pengarang LIMIT 10;
+SELECT pg.nama_pengarang, pg.alamat, bk.judul, bk.harga, bk.jumlah_halaman FROM Buku bk INNER JOIN Pengarang pg ON bk.kode_pengarang = pg.kode_pengarang WHERE bk.jumlah_halaman > 140 AND bk.harga < 100;
+SELECT * FROM Pengarang pg INNER JOIN Buku bk ON bk.kode_pengarang = pg.kode_pengarang WHERE bk.harga != 20 ORDER BY bk.harga LIMIT 10;
+
